@@ -17,7 +17,6 @@
             android:name=".Screens.postActivity"
             android:label="@string/title_activity_post"
             android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity android:name=".Screens.Dashboard" />
         <activity android:name=".Screens.AndoidX" />
         <activity android:name=".Screens.register" />
         <activity android:name=".Screens.login">
